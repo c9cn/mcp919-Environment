@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Start" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="Start" />
+    <module name="mcp919-Environment" />
+    <option name="VM_PARAMETERS" value="-Djava.library.path=versions\1.8.9\1.8.9-natives" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jars" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
